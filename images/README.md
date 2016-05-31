@@ -1,0 +1,1 @@
+En esta carpeta se hospedan las imagenes que se van a insertar en la documentación sobre Matemáticas discretas.
