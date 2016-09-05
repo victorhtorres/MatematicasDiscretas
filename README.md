@@ -68,7 +68,7 @@ Es una sucesión de números tales que la diferencia de dos términos sucesivos 
 
 Formula:
 
-![formula enesimo aritmetica](https://github.com/victorhtorres/ingenieria-informatica/blob/master/matematicas-discretas/images/formula-enesimo-artimetica.png?raw=true)
+![formula enesimo aritmetica](images/formula-enesimo-artimetica.png)
 
 >La formula solo es válida para los n>=1 donde "a" es el primer término de la sucesión, "r" la razón de cambio y "n" es una variable cualquiera que se reemplaza por el número de término que se desea encontrar en la sucesión. 
 
@@ -76,13 +76,13 @@ Formula:
 
 Fórmula:
 
-![formula sucesion aritmetica](https://github.com/victorhtorres/ingenieria-informatica/blob/master/matematicas-discretas/images/formula-suma-sucesion-artimetica.png)
+![formula sucesion aritmetica](images/formula-suma-sucesion-artimetica.png)
 
 >Donde "n" es una constante que sirve para reemplazarla por la cantidad de términos que se desea sumar. La letra "a" hace referencia al primer término de la sucesión y "Tn" es el término general o n-ésimo de la sucesión.
 
 Ejemplo:
 
-![Ejemplo 1 sobre progresión aritmetica](https://github.com/victorhtorres/ingenieria-informatica/blob/master/matematicas-discretas/images/ejemplo-1-progresion-aritmetica.png)
+![Ejemplo 1 sobre progresión aritmetica](images/ejemplo-1-progresion-aritmetica.png)
 
 Computacionalmente y de forma recursiva sería así:
 
@@ -110,7 +110,7 @@ Una progresión geométrica es una secuencia en la que el elemento se obtiene mu
 
 Formula:
 
-![Formula progresión geométrica](https://github.com/victorhtorres/ingenieria-informatica/blob/master/matematicas-discretas/images/formula-progresion-geometrica.png)
+![Formula progresión geométrica](images/formula-progresion-geometrica.png)
 
 >Donde "a" es el primer término y "r" la razón de cambio.
 
@@ -118,11 +118,11 @@ Formula:
 
 Formula:
 
-![Formula suma progresión geométrica](https://github.com/victorhtorres/ingenieria-informatica/blob/master/matematicas-discretas/images/formula-suma-termino-progresion-geometrica.png)
+![Formula suma progresión geométrica](images/formula-suma-termino-progresion-geometrica.png)
 
 Ejemplo:
 
-![Ejemplo progresión geométrica](https://github.com/victorhtorres/ingenieria-informatica/blob/master/matematicas-discretas/images/ejemplo-1-progresion-geometrica.png)
+![Ejemplo progresión geométrica](images/ejemplo-1-progresion-geometrica.png)
 
 
 ## Principio de induccion matematica (PIM)
@@ -141,7 +141,7 @@ Vamos a suponer que la formula es valida para k, entonces es verdadera también 
 
 Ejemplo:
 
-![ejemplo del pim](https://github.com/victorhtorres/ingenieria-informatica/blob/master/matematicas-discretas/images/ejemplo-pim.png)
+![ejemplo del pim](images/ejemplo-pim.png)
 
 >El PIM es importante utilizarlo en las formulas de nuestro código, asegurando que siempre funcionarán para cualquier valor en n.
 
